@@ -9,7 +9,7 @@ Oh, almost forgot, as almost everybody, I love travelling as well !
 
 ### What are you currently working on ?
 I am currently learning Node.js in depth and slowly getting familiar with Three.js. My next goal will be to complete [devChallenge.io's Full-stack Developer path](https://devchallenges.io/paths/full-stack-developer).
-Also, I am actually looking for a job in France or abroad. If you've got a job to offer me, please feel free to [contact me](#🔗-links) !
+Also, I am actually looking for a job in France or abroad. If you've got a job to offer me, please feel free to [contact me](#links) !
 
 ### Anything else ?
 Nope, that's it ! Feel free to ask if you want to know anything else about me ! 😀
@@ -47,7 +47,7 @@ Well... I am only starting my career so there is not a lot to see there, but I d
 ![the conversation](https://img.shields.io/badge/German_|_B1..._working_on_it-FFAA00?style=for-the-badge&logo=the-conversation&logoColor=white)
 ![the conversation](https://img.shields.io/badge/Italian_|_Beginner-008D44?style=for-the-badge&logo=the-conversation&logoColor=white)
 
-## 🔗 Links
+## Links
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%C3%A9lie-camain/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elie_cmn/)
 
