@@ -50,7 +50,7 @@ Well... I am only starting my career so there is not a lot to see there, but I d
 ![the conversation](https://img.shields.io/badge/German_|_B1..._working_on_it-FFAA00?style=for-the-badge&logo=the-conversation&logoColor=white)
 ![the conversation](https://img.shields.io/badge/Italian_|_Beginner-008D44?style=for-the-badge&logo=the-conversation&logoColor=white)
 
-## Links
+## 🔗 Links
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%C3%A9lie-camain/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elie_cmn/)
 
