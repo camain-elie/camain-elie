@@ -18,7 +18,7 @@ Apart from that, that's it ! Feel free to ask if you want to know anything else 
 
 ## 🏆 Achievements
 Well... I am only starting my career so there is not a lot to see there, but I definitely plan on growing this section bigger. Still, here are a few things that I am proud of as a developer :
-- ✔ Completed devChallenge.io's [Front-end Developer](https://devchallenges.io/portfolio/camain-elie) path.
+- ✔ Completed devChallenge.io's [Front-end Developer](https://devchallenges.io) path.
 - 🎓 Graduated from a bachelor's degree in Computer Science.
 - 📚 Constantly learning new things !
 
