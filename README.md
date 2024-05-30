@@ -5,7 +5,7 @@
 I am CAMAIN Élie, a **Full Stack Web Developer** with a slight preference for **Front End** development and mostly specialized in **React** and **Node.js** technologies.
 I'm a French guy, living in France (yeah I know, how original haha ?!). I'm very **curious**, so apart from development, I love learning all kinds of things (currently learning to speak Brazilian portuguese, climbing and calisthenics).
 I'm quite **open minded** and here are a few more things that I like : beers, books, movies, pizzas, cooking.
-Oh, almost forgot, as almost everybody, I love travelling as well !
+Oh, almost forgot, just like almost everybody, I love travelling as well !
 
 ### What are you currently working on ?
 I am currently developing a [Space shooter mini game](https://github.com/camain-elie/space-shooter), learning Node.js in depth and slowly getting familiar with Three.js. 
